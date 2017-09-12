@@ -1,4 +1,4 @@
 # goats.xyz
-The goats.xyz website.
+The [goats.xyz](http://goats.xyz/) website.
 
 It's a website. About goats.
