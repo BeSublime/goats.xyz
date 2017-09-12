@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Cory Evan Wright -- Developer, Designer, Researcher -- @BeSublime
+
+# THANKS
+
+    Goats, for being so awesome.
+    OldFashioned101.com, for the idea.
+
+# TECHNOLOGY COLOPHON
+
+    Motherfucking HTML & CSS
+    Inspired, of course, by http://motherfuckingwebsite.com
